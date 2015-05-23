@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Code Pink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python_workspace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hangman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parallax_pin_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recipe_organizer" vcs="Git" />
+  </component>
+</project>
