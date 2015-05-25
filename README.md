@@ -1,16 +1,16 @@
-### object_oriented_hangman
+# object_oriented_hangman
 
 #####Contributors: Trevor Rapp, David Wise, Bob Ziroll 
 
 This is a simple game of hangman done completely in Python.  It evolved from the "hang_man" also listed in my GitHub account.  We simply took it and made it more object-oriented.
 
-#####Description of original game: ### hang_man
+###Description of original game: ### hang_man
 
-#####Contributors: Trevor Rapp, David Wise, Bob Ziroll 
+###Contributors: Trevor Rapp, David Wise, Bob Ziroll 
 
 This is a simple game of hangman done completely in Python.  The program asks if the user wants to have the rules explained or if they want to play.  When it comes time to play the program chooses a random word from a list of words.  The program then displays the number of spaces in the word and the player is left to guess a letter.  The program checks the letter guessed and filters out case issues or non alphabetic characters and returns an error message if there is one.  If the input is valid, then the program checks if and where the character is contained in the word and displays which empty space is now filled in.  If the guess is incorrect the computer chooses from a list of disparaging remarks to taunt the player and displays how much of the person is "drawn." The player wins if all letters are guessed correctly in under 5 guesses.
 
-####Contact information: 
+###Contact information: 
 
 Feel free to contact me about questions, comments, or suggestions.
 
@@ -20,7 +20,7 @@ Feel free to contact me about questions, comments, or suggestions.
 
 * [photoblog](trappphotography.wordpress.com)
 
-####Other Stuff to Check Out
+###Other Stuff to Check Out
 
 * [Portfolio](http://web-karma.org//)
 
