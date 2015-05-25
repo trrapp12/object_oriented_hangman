@@ -8,11 +8,11 @@ This is a simple game of hangman done completely in Python.  It evolved from the
 
 Feel free to contact me about questions, comments, or suggestions.
 
-*email: trrapp@gmail.com.  
+* email: trrapp@gmail.com.  
 
-*[LinkedIn](https://www.linkedin.com/pub/trevor-rapp/37/a10/42)
+* [LinkedIn](https://www.linkedin.com/pub/trevor-rapp/37/a10/42)
 
-*[photoblog](trappphotography.wordpress.com)
+* [photoblog](trappphotography.wordpress.com)
 
 ####Other Stuff to Check Out
 
