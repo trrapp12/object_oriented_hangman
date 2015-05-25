@@ -2,9 +2,9 @@
 
 #####Contributors: Trevor Rapp, David Wise, Bob Ziroll 
 
-This is a simple game of hangman done completely in Python.  It evolved from the "hang_man" also listed in my GitHub account.  We simply took it and made it more object-oriented.
+This is version 2.0 of a simple game of hangman done completely in Python.  It evolved from the "hang_man" also listed in my GitHub account.  We simply took it and made it more object-oriented.
 
-###Description of original game: ### hang_man
+###Description of original hang_man
 
 >
 #####Contributors: Trevor Rapp, David Wise, Bob Ziroll 
