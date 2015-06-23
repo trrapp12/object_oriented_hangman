@@ -2,6 +2,8 @@
 
 #####Contributors: Trevor Rapp, David Wise, Bob Ziroll 
 
+![hangman](https://cloud.githubusercontent.com/assets/11747875/8296599/8e007646-190f-11e5-83ce-64c7a3ef2ee2.jpg)
+
 This is version 2.0 of a simple game of hangman done completely in Python.  It evolved from the "hang_man" also listed in my GitHub account.  We simply took it and made it more object-oriented.
 
 ###Description of original hang_man
