@@ -12,6 +12,7 @@ This is version 2.0 of an earlier [Project](https://github.com/trrapp12/hang_man
 
 <br/>
 <br/>
+
 ### Original project demonstrated the following:
 ---
 
@@ -26,6 +27,7 @@ This is version 2.0 of an earlier [Project](https://github.com/trrapp12/hang_man
 
 <br/>
 <br/>
+
 ### This project adds additional use of:
 ---
 
