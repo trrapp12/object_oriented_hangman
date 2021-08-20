@@ -58,7 +58,7 @@ $ python3 --version
   
 5. Make sure you are still in the Hangman folder
 6. You should be able to see a program named 'hangman.py'.  If not, navigate back into the Hangman folder.  
-7. Type `python hangman.py` to run the program from the terminal
+7. Type `python object_oriented_hangman.py` to run the program from the terminal
 8. The program runs from prompts in the Command Line, so watch for prompts and respond accordingly. 
 9. Enjoy!
 <br/>
