@@ -53,7 +53,7 @@ $ python3 --version
   - clone the program into the Hangman folder you just created by typing: 
  
  ```
- git clone https://github.com/trrapp12/hang_man.git
+ https://github.com/trrapp12/object_oriented_hangman.git
  ```
   
 5. Make sure you are still in the Hangman folder
