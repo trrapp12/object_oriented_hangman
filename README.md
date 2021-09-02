@@ -91,5 +91,5 @@ $ python3 --version
 ### More Information:
 ---
 
-\**For more information see my [Portfolio](https://trrapp12.github.io/Trevor-Rapp-Portfolio/), [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
+\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
