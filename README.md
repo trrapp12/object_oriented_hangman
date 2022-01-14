@@ -4,17 +4,23 @@
 
 ![hangman](https://cloud.githubusercontent.com/assets/11747875/8296599/8e007646-190f-11e5-83ce-64c7a3ef2ee2.jpg)
 
+<br>
+<br>
+
+---
 
 ### Description:
----
+
 
 This is version 2.0 of an earlier [Project](https://github.com/trrapp12/hang_man).  It evolved from the "hang_man" also listed in my GitHub account.  We simply took it and made it more object-oriented.
 
-<br/>
-<br/>
+<br>
+<br>
+
+---
 
 ### Instructions on how to launch:
----
+
 
 1. Make sure you have a Python interpreter installed: 
   - on a Mac type &#8984;  + `space`
@@ -61,11 +67,13 @@ $ python3 --version
 7. Type `python object_oriented_hangman.py` to run the program from the terminal
 8. The program runs from prompts in the Command Line, so watch for prompts and respond accordingly. 
 9. Enjoy!
-<br/>
-<br/>
+<br>
+<br>
+
+---
 
 ### Original project demonstrated the following:
----
+
 
 - [x] Correct use of functions, conditionals, loops, arrays.
 - [x] Properly sequence Python statements.
@@ -76,20 +84,24 @@ $ python3 --version
 - [x] Decrement the number of turns remaining.
 - [x] Display letters guessed in the position that they are contained in the word.
 
-<br/>
-<br/>
+<br>
+<br>
+
+---
 
 ### This project adds additional use of:
----
+
 
 - [x] Object Oriented Programming techniques.
 - [x] Classes and Inheritance.
 
-<br/>
-<br/>
+<br>
+<br>
+
+---
 
 ### More Information:
----
+
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
